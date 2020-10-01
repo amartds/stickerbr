@@ -1,0 +1,136 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    },
+    {
+      "id": 6,
+      "amount": 6
+    },
+    {
+      "id": 7,
+      "amount": 5
+    },
+    {
+      "id": 8,
+      "amount": 4
+    },
+    {
+      "id": 10,
+      "amount": 2
+    },
+    {
+      "id": 11,
+      "amount": 7
+    },
+    {
+      "id": 12,
+      "amount": 8
+    },
+    {
+      "id": 13,
+      "amount": 9
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Adesivo para devs Adesivo para devs Adesivo para devs Adesivo para devs Adesivo para devs Adesivo para devs",
+      "price": 1.76,
+      "image": "https://stickersbr.s3-sa-east-1.amazonaws.com/01.png"
+    },
+    {
+      "id": 2,
+      "title": "Adesivo desenvolvedor",
+      "price": 3.40,
+      "image": "https://stickersbr.s3-sa-east-1.amazonaws.com/02.png"
+    },
+    {
+      "id": 3,
+      "title": "Programador",
+      "price": 2.99,
+      "image": "https://stickersbr.s3-sa-east-1.amazonaws.com/03.png"
+    },
+    {
+      "id": 4,
+      "title": "Adesivo para analista de sistemas",
+      "price": 139.9,
+      "image": "https://stickersbr.s3-sa-east-1.amazonaws.com/04.png"
+    },
+    {
+      "id": 5,
+      "title": "Stickers",
+      "price": 2.90,
+      "image": "https://stickersbr.s3-sa-east-1.amazonaws.com/05.png"
+    },
+    {
+      "id": 6,
+      "title": "Imprima seu adesivo",
+      "price": 1.00,
+      "image": "https://stickersbr.s3-sa-east-1.amazonaws.com/06.png"
+    },
+    {
+      "id": 7,
+      "title": "Adesivo para devs",
+      "price": 1.00,
+      "image": "https://stickersbr.s3-sa-east-1.amazonaws.com/07.png"
+    },
+    {
+      "id": 8,
+      "title": "Adesivo para devs",
+      "price": 1.00,
+      "image": "https://stickersbr.s3-sa-east-1.amazonaws.com/08.png"
+    },
+    {
+      "id": 9,
+      "title": "Adesivo para devs",
+      "price": 1.00,
+      "image": "https://stickersbr.s3-sa-east-1.amazonaws.com/09.png"
+    },
+    {
+      "id": 10,
+      "title": "Adesivo para devs",
+      "price": 1.00,
+      "image": "https://stickersbr.s3-sa-east-1.amazonaws.com/10.png"
+    },
+    {
+      "id": 11,
+      "title": "Adesivo para advocate",
+      "price": 1.00,
+      "image": "https://stickersbr.s3-sa-east-1.amazonaws.com/11.png"
+    },
+    {
+      "id": 12,
+      "title": "Adesivo para eng",
+      "price": 0.99,
+      "image": "https://stickersbr.s3-sa-east-1.amazonaws.com/12.png"
+    },
+    {
+      "id": 13,
+      "title": "Adesivo para devs",
+      "price": 1.33,
+      "image": "https://stickersbr.s3-sa-east-1.amazonaws.com/13.png"
+    }
+  ]
+}

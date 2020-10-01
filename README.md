@@ -18,4 +18,3 @@ Stack utilizada:
 -  [React-Icons](https://react-icons.netlify.com/)
 -  [json-server](https://github.com/typicode/json-server)
 -  [Reactotron](https://infinite.red/reactotron)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]

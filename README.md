@@ -19,4 +19,4 @@ Stack utilizada:
 -  [json-server](https://github.com/typicode/json-server)
 -  [Reactotron](https://infinite.red/reactotron)
 
-Para executar instale as dependencias execute no terminal dentro da pasta do projeto ``` json-server --watch db.json --port 3333 ``` após isso basta executar em outra aba o comando ``` yarn start ```
+Para executar instale as dependencias com yarn ou npm, execute no terminal dentro da pasta do projeto ``` json-server --watch db.json --port 3333 ``` após isso basta executar em outra aba o comando ``` yarn start ```
